@@ -1,2 +1,2 @@
-# ScienceInspiration
-Inspiracje do projektów końcowych ze świata nauki. 
+# Inspiration
+Inspiracje do projektów końcowych. 
