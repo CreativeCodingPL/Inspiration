@@ -7,7 +7,7 @@ PFont mono;
 
 void setup() {
   size(640, 360);
-  target = "Kalerepa o smaku majonezu";
+  target = "Twoja stara pierze w rzece";
   mutationRate = 0.001;
   population = new DNA[totalPopulation];
   for (int i =0; i < population.length; i++) {
@@ -21,6 +21,7 @@ void setup() {
 
 void draw() {
   
+
   float bestFitness = 0;
   String bestGenes = "";
   PImage scr = get(0,0,width,height);
