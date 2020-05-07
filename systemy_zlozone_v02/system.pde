@@ -18,7 +18,10 @@ class system {
   }
   
   void aktualizuj() {
-    for(int i =0; i<N; i++) agenci[i].aktualizujWiek();
+    for(int i =0; i<N; i++) {
+      agenci[i].aktualizujWiek();
+      agenci[i].aktualizuPozycje();
+    }
   }
   
 }
