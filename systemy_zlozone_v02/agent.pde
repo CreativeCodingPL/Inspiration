@@ -33,11 +33,11 @@ class agent {
       wiek += 3;
   }
   void aktualizuPozycje() {
-    if(random(1000) < 30) przyspieszenie.rotate(random(-PI, PI));
+    if(random(100) < 30) przyspieszenie.rotate(random(-PI, PI));
     if(pozycja.x < 10 || pozycja.x > width-10) predkosc.x = -predkosc.x;
     if(pozycja.y < 10 || pozycja.y > height-10) predkosc.y = -predkosc.y;
     predkosc.add(przyspieszenie);
     pozycja.add(predkosc);
-    predkosc.limit(10);
+    predkosc.limit(5);
   }
 }
