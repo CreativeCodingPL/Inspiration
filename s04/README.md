@@ -17,3 +17,8 @@ Z cyklu inspiracje. Wykład o systemach złożonych i możliwości wykorzystanie
 - Wiki [Układ Lorenza](https://pl.wikipedia.org/wiki/Układ_Lorenza)
 Wolfram [Elementary Cellular Automaton](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
 
+## Eksperymenty z automatami
+
+![](Screen1.png)
+![](Screen2.png)
+![](Screen3.png)
