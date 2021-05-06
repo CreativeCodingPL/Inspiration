@@ -19,6 +19,6 @@ Wolfram [Elementary Cellular Automaton](https://mathworld.wolfram.com/Elementary
 
 ## Eksperymenty z automatami
 
-![](Screen1.png)
-![](Screen2.png)
 ![](Screen3.png)
+![](Screen2.png)
+![](Screen1.png)
